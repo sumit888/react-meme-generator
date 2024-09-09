@@ -61,3 +61,13 @@ main {
   color: white;
   border: none;
 }
+
+.form--button:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.meme--image {
+  max-width: 100%;
+}
+
